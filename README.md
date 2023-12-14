@@ -1,2 +1,2 @@
 # OCTANET_DECEMBER
-OctaNet_December_Internship
+OctaNet_December_Internship_Task1_Landing_Page
